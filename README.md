@@ -7,3 +7,5 @@ The interaction with these programming languages had a big impact in my developm
 My biggest passion is represented by 💻 <b>Web Development</b>, which is the subject that helped me improve my analytical skills, creative thinking and problem solving skills. I strongly believe that Web Development is the perfect way to combine both design and programming.
 
 I am also passionate about universal literature and psychology, spending my leisure time reading. I take great pleasure in interacting with my fellows and I consider myself very sociable, as I prefer teamwork and interaction.
+
+ 📝 CV: https://bit.ly/3pawIRw
