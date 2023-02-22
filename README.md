@@ -8,4 +8,4 @@ My biggest passion is represented by 💻 <b>Web Development</b>, which is the s
 
 I am also passionate about universal literature and psychology, spending my leisure time reading. I take great pleasure in interacting with my fellows and I consider myself very sociable, as I prefer teamwork and interaction.
 
- 📝 CV: https://bit.ly/3pawIRw
+ 📝 CV: https://bit.ly/3ExpSNL
