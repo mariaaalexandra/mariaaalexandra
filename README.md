@@ -1,7 +1,6 @@
 # Maria Druga
 
-![image](https://github.com/mariaaalexandra/mariaaalexandra/assets/88377356/a65dee3d-4aa9-487b-a6a0-e95da0e2e854)
-
+![image](https://github.com/mariaaalexandra/mariaaalexandra/assets/88377356/ba740f9e-2fa2-429a-af16-e599636eda02)
 
 ## 👩‍💻 About Me
 
