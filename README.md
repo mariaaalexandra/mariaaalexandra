@@ -1,6 +1,7 @@
 # Maria Druga
 
-<center>![Profile Picture](BNP_Paribas.png)</center>
+![image](https://github.com/mariaaalexandra/mariaaalexandra/assets/88377356/a65dee3d-4aa9-487b-a6a0-e95da0e2e854)
+
 
 ## 👩‍💻 About Me
 
