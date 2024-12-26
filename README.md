@@ -1,6 +1,6 @@
 # Maria Druga
 
-![image](https://github.com/mariaaalexandra/mariaaalexandra/assets/88377356/ba740f9e-2fa2-429a-af16-e599636eda02)
+[![image](https://github.com/mariaaalexandra/mariaaalexandra/blob/main/Ford%20Banner.jpeg)
 
 ## 👩‍💻 About Me
 
