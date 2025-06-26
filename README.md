@@ -10,12 +10,12 @@ At Ford, I independently migrated the frontend codebase to Angular 17, reducing 
 
 Previously at BNP Paribas, I developed an instant payment application using Java EE and JBoss EAP, handled production incidents with Splunk and SQL*Plus, and helped increase test coverage by up to 80% using Mockito, PowerMock, and SonarQube. As an intern, I built a full stack web application using Spring Boot, AngularJS, and Hibernate, gaining hands-on experience with enterprise development and deployment using Liberty.
 
-My background includes:
-◼️ Backend development with Java, Spring Boot, Java EE, JBoss EAP, and REST/SOAP APIs
-◼️ Frontend development with Angular (JS–17), TypeScript, HTML, and CSS
-◼️ Cloud & CI/CD using GCP, Terraform, Tekton, Jenkins, and Maven
-◼️ Strong emphasis on API security and system reliability
-◼️ Comfortable with tools and platforms like Hibernate, ElasticSearch, Git, Splunk, Nexus, and ServiceNow
+My background includes:<br>
+◼️ Backend development with Java, Spring Boot, Java EE, JBoss EAP, and REST/SOAP APIs<br>
+◼️ Frontend development with Angular (JS–17), TypeScript, HTML, and CSS<br>
+◼️ Cloud & CI/CD using GCP, Terraform, Tekton, Jenkins, and Maven<br>
+◼️ Strong emphasis on API security and system reliability<br>
+◼️ Comfortable with tools and platforms like Hibernate, ElasticSearch, Git, Splunk, Nexus, and ServiceNow<br>
 
 📫 Contact
 
