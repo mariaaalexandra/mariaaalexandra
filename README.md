@@ -4,19 +4,18 @@
 
 👩‍💻 About Me
 
-Hi, I’m Maria, a Software Developer at Ford Company. I specialize in backend and frontend development, with a focus on Java, Spring Boot, and Angular. I work in an Agile environment, solving technical challenges and delivering secure, efficient solutions.
+I’m a Full Stack Software Engineer with a strong foundation in Java, Spring Boot, and Angular, currently working at Ford on the API Cybersecurity Team. I focus on building secure, scalable APIs, automating security workflows, and deploying cloud-native services using Google Cloud Platform (GCP), Terraform, and Tekton.
 
-🔧 Skills and Expertise
+At Ford, I independently migrated the frontend codebase to Angular 17, reducing technical debt and improving performance across internal platforms. I contributed to major platform upgrades including Azure Entra ID, Apigee, and cluster migrations, helping standardize and secure API infrastructure. I also implemented automated vulnerability scanning and compliance checks using tools like 42Crunch, Checkmarx, FOSSA, JFrog, and Cycode, improving security coverage across multiple teams. Additionally, I developed internal tools using the Jira API and Microsoft Teams API to improve workflow visibility and reduce manual effort.
 
-I’m skilled in Java, Spring Boot, and Angular for building secure APIs and applications. I also have experience with Terraform, Tekton, ElasticSearch, JBoss, Oracle Database, REST APIs, and scripting with SQL*Plus and happy to expand my knowledge.
+Previously at BNP Paribas, I developed an instant payment application using Java EE and JBoss EAP, handled production incidents with Splunk and SQL*Plus, and helped increase test coverage by up to 80% using Mockito, PowerMock, and SonarQube. As an intern, I built a full stack web application using Spring Boot, AngularJS, and Hibernate, gaining hands-on experience with enterprise development and deployment using Liberty.
 
-🏫 Educational Background
-
-I hold a Bachelor's Degree in Computer Engineering from the Faculty of Automatic Control and Computer Science, UPB, where I gained expertise in programming, algorithms, operating systems, and networking. Currently, I’m pursuing a Master’s in Advanced Studies in e-Government, focusing on cloud computing, cybersecurity, and distributed systems.
-
-💼 Professional Experience
-
-I started as a Java Intern at BNP Paribas, building a credit loan application with Spring Boot and Angular, after which I've continued to work for 2 more years building applications, migrating to Cloud, migrating to newer Java versions and more. Now, I’m a Full Stack Developer at Ford’s API Cybersecurity Team. My work includes resolving production incidents, scanning and fixing vulnerabilities, and building tools to secure APIs. I use Angular for UI, Spring Boot for backend, and Terraform/Tekton for cloud deployments. I also assist teams with integration, troubleshooting, and compliance.
+My background includes:
+◼️ Backend development with Java, Spring Boot, Java EE, JBoss EAP, and REST/SOAP APIs
+◼️ Frontend development with Angular (JS–17), TypeScript, HTML, and CSS
+◼️ Cloud & CI/CD using GCP, Terraform, Tekton, Jenkins, and Maven
+◼️ Strong emphasis on API security and system reliability
+◼️ Comfortable with tools and platforms like Hibernate, ElasticSearch, Git, Splunk, Nexus, and ServiceNow
 
 📫 Contact
 
